@@ -1,5 +1,6 @@
 Hi👋 I'm a Data Scientist 
 
+
 💡Career Objective💡 :- Seeking an entry-level position as a Data Scientist where I can gain hands-on experience while developing cutting-edge solutions for the organization’s needs.
 
 
