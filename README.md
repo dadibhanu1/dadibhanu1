@@ -11,7 +11,7 @@ Hi👋 I'm a Data Scientist
 - 💊I am currently collecting knowledge to become DATA SCIENTIST
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/bhanudadi
-- 👨‍💻 All of my projects are available at[https://github.com/dadibhanu1/dadibhanu1](url)
+- 👨‍💻 All of my projects are available at [https://github.com/dadibhanu1](url)
   
 -  Skills
 Python 
