@@ -1,7 +1,7 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*e4HBnH84BpwLCFr78xvfjg.gif)
+![MasterHead](https://github.com/dadibhanu1/dadibhanu1/assets/158495835/e9cefe3a-394f-4e66-b4a7-46cd1ea732ae)
 
-<h1 align="center">Hi 👋, I'm Dadi Bhanu</h1>
-<h3 align="center">A passionate Aspiring Data Scientist from India</h3>
+
+<h2 align="center">A passionate Aspiring Data Scientist from India</h2>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 
