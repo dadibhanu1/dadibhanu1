@@ -1,6 +1,6 @@
-Hi👋 I'm a Data Scientist 
-![github image](https://github.com/dadibhanu1/dadibhanu1/assets/158495835/f2b19e07-4177-47d2-aeb9-b0e258e4a672)
  
+![github image](https://github.com/dadibhanu1/dadibhanu1/assets/158495835/f2b19e07-4177-47d2-aeb9-b0e258e4a672)
+Hi👋 I'm a Data Scientist 
 
 💡Career Objective💡 :- Seeking an entry-level position as a Data Scientist where I can gain hands-on experience while developing cutting-edge solutions for the organization’s needs.
 
